@@ -45,7 +45,7 @@ pip install pillow glob3
 
 <h2>Compatibility</h2>
 
-<h3>Compatible File Types for intput Images:</h3>
+<h3>Compatible File Types for Input Images:</h3>
 
 .bmp, .gif, .ico, .jpeg, .jpg, .png, .tiff
 
