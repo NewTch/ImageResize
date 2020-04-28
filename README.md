@@ -40,7 +40,7 @@ pip install pillow glob3
 
 6. Enter your desired finished image format (must be compatible file type)
 
-7. Wait until the command prompt reads "100.0%", resized images will be in "Finished"
+7. Wait until the command prompt reads "100.0%", the resized images will be in "Finished"
 
 
 <h2>Compatibility</h2>
