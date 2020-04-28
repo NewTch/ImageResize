@@ -43,8 +43,12 @@ pip install pillow glob3
 7. Wait until the command prompt reads "100.0%", resized images will be in "Finished"
 
 
-<h2>Compatible File Types for Input Images:</h2>
+<h2>Compatibility</h2>
+
+<h3>Compatible File Types for intput Images:</h3>
+
 .bmp, .gif, .ico, .jpeg, .jpg, .png, .tiff
 
-<h2>Compatible File Types for Output Images:</h2>
+<h3>Compatible File Types for Output Images:</h3>
+
 .bmp, .gif, .png, .tiff
