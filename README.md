@@ -1,7 +1,6 @@
 # ImageResize
-<h2>Python Image Resizer</h2>
-
 <h3>
+Python Image Resize
 By NTech
 28-04-2020
 </h3>
