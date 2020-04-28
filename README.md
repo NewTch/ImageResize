@@ -7,7 +7,7 @@ By NTech
 
 <h2>Requirements (covered in installation):</h2>
 
-Python 3.X (Any Python 3)\
+Python 3.X (Any Python 3)
 
 pip
 
