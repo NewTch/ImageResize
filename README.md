@@ -1,5 +1,5 @@
 # ImageResize
- Python Image Resizer
+<h1>Python Image Resizer</h1>
 
 By NTech
 28-04-2020
