@@ -6,9 +6,13 @@ By NTech
 </h3>
 
 <h2>Requirements (covered in installation):</h2>
-Python 3.X (Any Python 3)
+
+Python 3.X (Any Python 3)\
+
 pip
+
 Pillow
+
 glob
 
 <h2>Installation:</h2>
