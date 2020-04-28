@@ -23,6 +23,7 @@ https://www.liquidweb.com/kb/install-pip-windows/
 pip install pillow glob3
 
 <h2>Usage:</h2>
+
 1. Put all images you want to be resized in "Images" folder in ImageResize (images must be compatible file types)
 
 2. Make sure that the "Finished" folder in ImageResize is empty.
